@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste name="piece" detail="1" separateur=" - ">
+    <ligne>
+        <value>1</value>
+        <label>PCMI1</label>
+        <detail>Plan de situation du terrain</detail>
+    </ligne>
+    <ligne>
+        <value>2</value>
+        <label>PCMI2</label>
+        <detail>Plan de masse des constructions à édifier ou à modifier</detail>
+    </ligne>
+    <ligne>
+        <value>3</value>
+        <label>PCMI3</label>
+        <detail>Plan en coupe du terrain et de la construction</detail>
+    </ligne>
+    <ligne>
+        <value>4</value>
+        <label>PCMI4</label>
+        <detail>Notice décrivant le terrain et présentant le projet</detail>
+    </ligne>
+    <ligne>
+        <value>5</value>
+        <label>PCMI5</label>
+        <detail>Plan des façades et des toitures</detail>
+    </ligne>
+    <ligne>
+        <value>6</value>
+        <label>PCMI6</label>
+        <detail>Document graphique permettant d'apprecier l'insertion du projet</detail>
+    </ligne>
+    <ligne>
+        <value>7</value>
+        <label>PCMI7</label>
+        <detail>Photographie permettant de situer le terrain dans l'environnement proche</detail>
+    </ligne>
+    <ligne>
+        <value>8</value>
+        <label>PCMI8</label>
+        <detail>Photographie permettant de situer le terrain dans le paysage lointain</detail>
+    </ligne>
+    <ligne>
+        <value>9</value>
+        <label>PCMI9</label>
+        <detail>Certificat indiquant la surface constructible attribué à votre lot</detail>
+    </ligne>
+    <ligne>
+        <value>10</value>
+        <label>PCMI10</label>
+        <detail>Certificat attestant l'achèvement des équipements desservant le lot</detail>
+    </ligne>
+    <ligne>
+        <value>11</value>
+        <label>PCMI11</label>
+        <detail>Copie des dispositions du cahier des charges de cession de terrain</detail>
+    </ligne>
+    <ligne>
+        <value>12</value>
+        <label>PCMI12 </label>
+        <detail>Convention entre la commune et vous</detail>
+    </ligne>
+</liste>
